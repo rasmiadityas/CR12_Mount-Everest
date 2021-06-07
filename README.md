@@ -1,9 +1,10 @@
-# FE21_CR12_Rasmi-Silasari
+# Portfolio: Mount Everest
 210508 Code Review 12 - Rasmiaditya Silasari
+
+[Mount Everest Site](https://rasmi.codefactory.live/mounteverest)
 
 # Explanation of the project
 Mount Everest is a website where admin can do CRUD actions on travel package offers. These can be done via Dashboard, where the data is listed in a table for easy viewing, or via Details, which can be accessed bc clicking the 'View' button. Data can also be added from the Homepage by clicking 'Add Data' on navbar. Mount Everest also provides API called 'GetTravel' where guests can access all travel package data in JSON format, which can be accessed bc clicking 'API: GetTravel' (api/index_api.php) on navbar and Dashboard. 
-This project is also online at https://rasmi.codefactory.live/mounteverest/
 
 # File organization
 - The scripts in the main folder are index, dashboard, details and error
